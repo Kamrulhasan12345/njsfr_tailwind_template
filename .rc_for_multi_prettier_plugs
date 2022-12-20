@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    "one",
+    "two",
+    "tailwind must come last",
+    "prettier-plugin-tailwindcss"
+  ],
+  "pluginSearchDirs": false
+}
